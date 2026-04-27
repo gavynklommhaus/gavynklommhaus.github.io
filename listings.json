@@ -1,6 +1,9 @@
 [
   {
-    "listing": "/posts/Pace of Play/index.html",
-    "items": []
+    "listing": "/index.html",
+    "items": [
+      "/posts/pace-of-play/index.html",
+      "/posts/punter-university/index.html"
+    ]
   }
 ]
